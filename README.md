@@ -31,7 +31,7 @@ pyautogui.click(x=631, y=767)                     #clica e abre no vídeo do can
 
 
 #Foi utilizado para achar as coordenadas de x e y
-# time.sleep(5)
-# print(pyautogui.position())
+#time.sleep(5)
+#print(pyautogui.position())
 
 
